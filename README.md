@@ -1,5 +1,5 @@
 # maps
-TypeScript Pattern: Google Map Location, Marker, Marker Content<br/>
+TypeScript Pattern (Interface): Google Map Location, Marker, Marker Content<br/>
 @ npm install -g parcel-bundler<br/>
 @ Building with Parcel: parcel index.html<br/>
 @ Generating Random Data: npm install faker<br/>
